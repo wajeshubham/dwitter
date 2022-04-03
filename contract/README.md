@@ -33,5 +33,11 @@ npm run node
 ### Deploy locally
 
 ```shell
+npm run deploy-dev
+```
+
+### Deploy in production
+
+```shell
 npm run deploy-prod
 ```
