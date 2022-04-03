@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Introduction to TypeScript",
+      "description": "In this article, you will learn what TypeScript is all about: its installation, the differences between TypeScript and JavaScript, its basic types and concepts, how to configure TypeScript by adding the tsconfig.json file.",
+      "subtitle": {
+        "text": "Typescript",
+        "duration": 13
+      },
+      "tags": [],
+      "image": "https://blog.learncodeonline.in/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1644689412592%2Fix473Yfs6.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "link": "https://blog.learncodeonline.in/introduction-to-typescript"
+    },
+    {
+      "id": "2",
+      "title": "Everyday types in TypeScript",
+      "description": "As we explored in the last article, we have learned about TypeScript, why we use it, how it differs from JavaScript, how to install, configure, and run TypeScript, and some basic types in TypeScript.",
+      "subtitle": {
+        "text": "Typescript",
+        "duration": 15
+      },
+      "tags": [],
+      "image": "https://blog.learncodeonline.in/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1645373676997%2FjlXolauWG.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "link": "https://blog.learncodeonline.in/everyday-types-in-typescript"
+    },
+    {
+      "id": "3",
+      "title": "Promises in JavaScript",
+      "description": "What is Promise in JavaScript? A promise is an object that may produce a single value in the future after some time. Either it will be a resolved value or a rejected value.",
+      "subtitle": {
+        "text": "Javascript",
+        "duration": 9
+      },
+      "tags": [],
+      "image": "https://blog.learncodeonline.in/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1611651351283%2FZwrCq_sxW.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "link": "https://blog.learncodeonline.in/promises-in-javascript"
+    },
+    {
+      "id": "3",
+      "title": "Classes in TypeScript",
+      "description": "Looking back to our last article, we covered Functions in TypeScript which gave us an idea about how Functions work, are structured, and implemented in TypeScript.",
+      "subtitle": {
+        "text": "Typescript",
+        "duration": 18
+      },
+      "tags": [],
+      "image": "https://blog.learncodeonline.in/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1647089929113%2Fsxd-ktcr8.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+      "link": "https://blog.learncodeonline.in/classes-in-typescript"
+    }
+  ]
+}
