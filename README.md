@@ -10,7 +10,7 @@ All the data is stored on the Ethereum blockchain, which means that signing up a
 
 ## Add ether to your wallet
 
-You can add ether in your wallet fro free. To add ether to your wallet on the Robsten network, you can use the following link:
+You can add ether in your wallet fro free. To add ether to your wallet on the Ropsten network, you can use the following link:
 
 https://faucet.egorfine.com/
 
