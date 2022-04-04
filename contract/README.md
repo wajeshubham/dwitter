@@ -1,5 +1,7 @@
 ## DWITTER SMART CONTRACT
 
+---
+
 - Language: [Solidity (v^0.8.0)](https://docs.soliditylang.org/en/v0.8.13/)
 - Dev environment: [Hardhat](https://hardhat.org/getting-started/)
 - Deployed on: [Alchemy (Ropsten)](https://alchemy.com/)
