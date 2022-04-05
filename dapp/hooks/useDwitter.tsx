@@ -6,7 +6,7 @@ import { LocalStorage } from '../utils/classes';
 import { addClassToBody, removeClassFromBody } from '../utils/functions';
 
 const contractABI = Dwitter.abi;
-const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
+const contractAddress = '0x3E8869516fA9C2d3B06530F6005444f1b0668405';
 const Ethereum = typeof window !== 'undefined' && (window as any).ethereum;
 
 const getDwitterContract = () => {
