@@ -6,13 +6,13 @@ import { LocalStorage } from '../utils/classes';
 import { addClassToBody, removeClassFromBody } from '../utils/functions';
 
 const contractABI = Dwitter.abi;
-const contractAddress = '0x3E8869516fA9C2d3B06530F6005444f1b0668405';
+const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
 const Ethereum = typeof window !== 'undefined' && (window as any).ethereum;
 
 const getDwitterContract = () => {
   if (!Ethereum) {
     alert(
-      'Please install MetaMask if you are on desktop. Not supported on mobile browsers yet.'
+      'Please install MetaMask if you are on desktop. Use MetaMask browser if you are on the mobile browser.'
     );
     return;
   }
@@ -38,7 +38,7 @@ const useDwitter = () => {
         if (openMetamask) {
           // show alert on button click
           alert(
-            'Please install MetaMask if you are on desktop. Not supported on mobile browsers yet.'
+            'Please install MetaMask if you are on desktop. Use MetaMask browser if you are on the mobile browser.'
           );
         }
 
@@ -64,7 +64,7 @@ const useDwitter = () => {
       console.log(error, 'ERROR');
       setIsLoading(false);
       alert(
-        'Please install MetaMask if you are on desktop. Not supported on mobile browsers yet.'
+        'Please install MetaMask if you are on desktop. Use MetaMask browser if you are on the mobile browser.'
       );
       return null;
     }
